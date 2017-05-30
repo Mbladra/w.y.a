@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wya</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_main">wYa?</string>
+
+    <string name="arrow">&#10149;</string>
+</resources>
